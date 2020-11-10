@@ -1,0 +1,11 @@
+/node_modules
+/.next
+/public
+
+/next.config.js
+
+/env-config.js
+
+# Tailwind css
+/tailwind.config.js
+/postcss.config.js
